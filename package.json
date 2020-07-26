@@ -13,13 +13,13 @@
     "discord",
     "bot"
   ],
-  "author": "mehedi-shafi",
+  "author": "mehedi-shafi, shovon668",
   "license": "mit",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mehedi-shafi/git-bot"
+    "url": "https://github.com/shovon668/git-bot"
   },
-  "homepage": "https://github.com/mehedi-shafi/git-bot",
+  "homepage": "https://github.com/shovon668/git-bot",
   "dependencies": {
     "discord.js": "^12.2.0",
     "dotenv": "^8.2.0",
